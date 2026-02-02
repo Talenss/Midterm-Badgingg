@@ -16,7 +16,7 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
-            "outputPath": "dist/midterm_badge/browser",
+            "outputPath": "dist/midterm_badge/browser/browser",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
